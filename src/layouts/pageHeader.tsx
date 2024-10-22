@@ -89,7 +89,6 @@ export function PageHeaderFirstSection({
         <Menu />
       </Button>
       <a href="/">
-        {/* <img src={logo} className="h-6" /> */}
         <h1>youtube</h1>
       </a>
     </div>

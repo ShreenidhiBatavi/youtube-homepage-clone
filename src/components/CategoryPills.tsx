@@ -72,7 +72,6 @@ export function CategoryPills({
             }}
           >
             <ChevronLeft />
-            123
           </Button>
         </div>
       )}

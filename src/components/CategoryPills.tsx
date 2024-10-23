@@ -96,7 +96,6 @@ export function CategoryPills({
                   res: width + newTranslate,
                 });
                 if (newTranslate + width >= edge) {
-                  console.log({ first: edge - width });
                   return edge - width;
                 }
                 return newTranslate;

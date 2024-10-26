@@ -114,7 +114,7 @@ export const categories = [
         "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
     {
-      id: "8",
+      id: "9",
       title: "Zig in 100 Seconds",
       channel: {
         name: "Fireship",
